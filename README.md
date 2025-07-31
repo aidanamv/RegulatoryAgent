@@ -44,7 +44,7 @@ export OPENAI_API_KEY=sk-...
 
 ### 5. Run the app
 ```bash
-streamlit run app.py
+streamlit run frontend.py
 ```
 
 
