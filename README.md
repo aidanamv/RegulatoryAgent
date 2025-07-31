@@ -1,4 +1,4 @@
-# 🏥 Regulatory Chatbot for Medical Devices
+# 🏥 Regulatory Chatbot
 
 An intelligent chatbot that answers regulatory questions about medical devices using AI and official documents from FDA, WHO, and more. It uses Retrieval-Augmented Generation (RAG) to find and cite relevant excerpts from PDFs and provides structured, reference-backed answers.
 
