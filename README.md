@@ -46,6 +46,9 @@ export OPENAI_API_KEY=sk-...
 ```bash
 streamlit run frontend.py
 ```
+### 6. Chatbot Screenshot
+
+![Chatbot Screenshot](assets/Screenshot.png)
 
 
 
